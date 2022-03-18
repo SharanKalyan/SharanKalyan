@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![image](https://user-images.githubusercontent.com/20862520/158964319-1ad7bf02-099e-4ca7-a5a6-2217966edfb8.png)
+![image](https://user-images.githubusercontent.com/20862520/156118623-c31dd1cc-0c78-4236-b429-1e78e0480965.png)
 
 
 Welcome to my profile! 
