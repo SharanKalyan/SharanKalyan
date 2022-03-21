@@ -3,7 +3,7 @@
 
 
 
-![image](https://user-images.githubusercontent.com/20862520/159238333-aba172b2-1e8d-482c-a225-6275d70c79d3.png)
+![image](https://user-images.githubusercontent.com/20862520/156118623-c31dd1cc-0c78-4236-b429-1e78e0480965.png)
 
 
 Welcome to my profile! 
