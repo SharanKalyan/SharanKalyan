@@ -50,20 +50,3 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="center">
-<a href="https://github.com/SharanKalyan">
-  
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SharanKalyan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SharanKalyan&layout=compact&langs_count=8&theme=algolia"/>
-
-</a>
-</p>
-<hr />
-
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/sharan-s-k9ab3ab151/"><img src="https://img.shields.io/badge/-Sharan-Kalyan?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:sharandhoni2526@gmail.com"><img src="https://img.shields.io/badge/-Sharan-Kalyan?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
