@@ -26,11 +26,10 @@
 
 Welcome to my profile! 
 
-I am a Datascience and an analytics professional with 2 years worth of rich experience across the analytics technology stack! I have experience working on Smart city projects where Object detection algorithms like the Yolo plays a majour role! I have personally been working on many such projects which you can see on this git. However, I have more experience working on the statitical models and analysis. I completed my Bachelor's in Computer Science Engineering, Panimalar Institute of Technology in 2018, and my PGP in Data Science with Great Lakes in 2019. I have experience working for both startups as well as MNC's! I am currently working 
-for HDFC Bank, Chennai as a Functional Analyst.
+I am a Datascience and an analytics professional with almost 3 years worth of rich experience across the analytics technology stack! I have experience working on Smart city projects where Object Detection algorithms such as YOLO, Tensorflow, Pytorch plays a majour role! I have personally been working on many such projects which you can see my github. However, I have more experience working on the statitical models and analysis and I have experience working With Querying languages like MySQL. I completed my Bachelor's in Computer Science Engineering, Anna University in 2018, and my PGP in Data Science with Great Lakes in 2019. I have experience working for both startups as well as MNC's! I am currently working for HDFC Bank, Chennai as a Functional Analyst.
 
 
-⚡ Fun fact : I am a passionate cricketer! I even wanted to become a cricketer. I have represented India in an Under 17 tournament for my club! (Madras Gladiators) Since I have good knowledge on cricket, I have been actively analysing the datasets related to cricket which you can see in this profile! I have also been actively participating on many competitions hosted by Kaggle.com and analyticsvidhya.com! 
+⚡ Fun fact : I am a passionate cricketer! I even wanted to become a cricketer. I have represented India in an Under 17 tournament for my club! (Madras Gladiators) Since I have good knowledge on cricket, I have been actively analysing the datasets related to cricket which you can see on my github! I have also been actively participating on many competitions hosted by Kaggle.com and analyticsvidhya.com! 
 
 
 
