@@ -26,8 +26,9 @@
 
 Welcome to my profile! 
 
-I am a Data Science and an analytics professional / AI Enthusisast with 6 years worth of rich experience across the analytics technology stack! I'm currently leading a team of 4 members in a US based Firm working from Chennai as a Senior Team Lead - Data Science. I have experience working on Smart city projects where Object Detection algorithms such as YOLO, Tensorflow, Pytorch plays a majour role! I have personally been working on many such projects which you can see my github. However, I have more experience working on the statitical models and analysis and I have experience working With Querying languages like MySQL. I completed my Bachelor's in Computer Science Engineering, Anna University in 2018, and my PGP in Data Science with Great Lakes in 2019. I have experience working for both startups as well as MNC's! 
-
+I am a Data Science professional and AI enthusiast with six years of hands-on experience across the AI/ML technology stack. I currently lead a high-performance data science team of four at a US-based firm, working from Chennai as a Senior Team Lead.
+My work spans Smart City projects where object detection algorithms—such as YOLO, TensorFlow, and PyTorch—play a major role. I’ve personally contributed to numerous such initiatives, many of which are showcased on my GitHub. Beyond deep learning, I also have strong experience in statistical modeling, data analysis, and advanced visualizations using Python and BI tools like Tableau and Power BI. 
+I hold a Bachelor's degree in Computer Science Engineering from Anna University (2018) and completed my PGP in Data Science from Great Lakes in 2019. Over the years, I’ve had the opportunity to work in both startups and MNCs, giving me a well-rounded perspective across different work environments.
 
 ⚡ Fun fact : I am a passionate cricketer! I even wanted to become a cricketer. Since I have good understanding and interest on cricket, I have been actively analysing the datasets related to cricket which you can see on my github! I have also been actively participating on many competitions hosted by Kaggle.com and analyticsvidhya.com! 
 
