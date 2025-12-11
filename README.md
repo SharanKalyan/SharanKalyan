@@ -32,7 +32,7 @@ My work spans Smart City projects where object detection algorithms such as YOLO
 
 I hold a Bachelor's degree in Computer Science Engineering from Anna University (2018) and completed my PGP in Data Science from Great Lakes in 2019. Over the years, I’ve had the opportunity to work in both startups and MNCs, giving me a well-rounded perspective across different work environments.
 
-⚡ Fun fact : I am a passionate cricketer! I even wanted to become a cricketer. Since I have good understanding and interest on cricket, I have been actively analysing the datasets related to cricket which you can see on my github! I have also been actively participating on many competitions hosted by Kaggle.com and analyticsvidhya.com! 
+⚡ I’m a passionate cricketer! I once aspired to pursue it professionally. Thanks to my strong understanding and love for the sport, I’ve been actively analyzing cricket related datasets, many of which you can find on my GitHub. I also frequently participate in competitions hosted on Kaggle and Analytics Vidhya.
 
 
 
