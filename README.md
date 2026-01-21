@@ -26,11 +26,13 @@
 
 Welcome to my profile! 
 
-I'm an AI/ML Data Science professional with six years of hands-on experience across the AI/ML technology stack. I currently lead a high-performance data science team of four at a US-based firm as a Senior Team Lead.
+I’m an AI/ML & Data Science professional with 6+ years of hands-on experience, specializing in building end-to-end data management and analytics solutions from raw data ingestion and storage to modeling, visualization, and decision-making systems. I currently lead a high-performance data science team of four at a US-based firm as a Senior Team Lead.
 
-My work spans Smart City projects where object detection algorithms such as YOLO, TensorFlow, and PyTorch play a major role. I’ve personally contributed to numerous such initiatives, many of which are showcased on my GitHub. Beyond deep learning, I also have strong experience in statistical modeling, data analysis, and advanced visualizations using Python and BI tools like Tableau and Power BI.  
+My work includes designing and implementing complete data pipelines: data collection, validation, transformation, storage (SQL/NoSQL), feature engineering, model development, deployment, and business-facing dashboards. Several of these projects focus on operationalizing data for real-world use cases, ensuring scalability, reliability, and measurable business impact.
 
-I hold a Bachelor's degree in Computer Science Engineering from Anna University (2018) and completed my PGP in Data Science from Great Lakes in 2019. Over the years, I’ve had the opportunity to work in both startups and MNCs, giving me a well-rounded perspective across different work environments.
+In addition, I’ve worked extensively on Smart City and computer vision projects, where object detection frameworks such as YOLO, TensorFlow, and PyTorch play a major role. I’ve personally contributed to multiple production-grade initiatives in this space, many of which are showcased here on my GitHub. Beyond deep learning, I have strong experience in statistical modeling, exploratory data analysis, and advanced visualizations using Python, along with BI tools like Tableau and Power BI to deliver actionable insights to stakeholders.
+
+I hold a Bachelor’s degree in Computer Science Engineering from Anna University (2018) and completed my PGP in Data Science from Great Lakes (2019). Having worked across both startups and MNCs, I bring a well-rounded perspective on building data solutions that balance speed, scale, and maintainability.
 
 ⚡ I’m a passionate cricketer! I once aspired to pursue it professionally. Thanks to my strong understanding and love for the sport, I’ve been actively analyzing cricket related datasets, many of which you can find on my GitHub. I also frequently participate in competitions hosted on Kaggle and Analytics Vidhya.
 
