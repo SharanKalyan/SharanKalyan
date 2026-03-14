@@ -27,7 +27,7 @@ I’m an AI/ML & Data Science professional with 6+ years of hands-on experience,
 
 My work includes designing and implementing complete data pipelines: data collection, validation, transformation, storage (SQL/NoSQL), feature engineering, model development, deployment, and business-facing dashboards. Several of these projects focus on operationalizing data for real-world use cases, ensuring scalability, reliability, and measurable business impact.
 
-Here are some of my works
+Here are some of my works:
 
 1. AirIQ – A web application that provides real-time Weather and Air Quality Index (AQI) information along with forecast data and additional environmental insights.
 https://aqi-weather-0yre.onrender.com/
