@@ -1,7 +1,6 @@
 ### Hey there! 👋
 
 
-
 <p align="center">
 <a href="https://github.com/SharanKalyan">
   
