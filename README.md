@@ -48,8 +48,8 @@ https://public.tableau.com/app/profile/sharankalyan/viz/ViratKohli-ODI/ViratKohl
 A Machine Learning classification application that predicts credit card approval risk based on applicant financial and demographic features.
 https://credit-card-approval-application.streamlit.app/
 
-
-In addition, I’ve worked extensively on Smart City and computer vision projects, where object detection frameworks such as YOLO, TensorFlow, and PyTorch play a major role. I’ve personally contributed to multiple production-grade initiatives in this space, many of which are showcased here on my GitHub. Beyond deep learning, I have strong experience in statistical modeling, exploratory data analysis, and advanced visualizations using Python, along with BI tools like Tableau and Power BI to deliver actionable insights to stakeholders.
+# Work Experience
+I lead a high performance Data Sciene team for Zoominfo, a Multinational B2B SaaS company as a Senior Team Lead. I've worked on Smart City and computer vision projects, where object detection frameworks such as YOLO, TensorFlow, and PyTorch play a major role. I’ve personally contributed to multiple production-grade initiatives in this space, many of which are showcased here on my GitHub. Beyond deep learning, I have strong experience in statistical modeling, exploratory data analysis, and advanced visualizations using Python, along with BI tools like Tableau and Power BI to deliver actionable insights to stakeholders.
 
 I hold a Bachelor’s degree in Computer Science Engineering from Anna University (2018) and completed my PGP in Data Science from Great Lakes (2019). Having worked across both startups and MNCs, I bring a well-rounded perspective on building data solutions that balance speed, scale, and maintainability.
 
