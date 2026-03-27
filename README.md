@@ -29,7 +29,7 @@ My work includes designing and implementing complete data pipelines: data collec
 
 # Here are some of my works:
 ### 1. Aerolens
-An Aircraft Model Recognition System built to identify the different types of Aircraft models.
+An Aircraft Model Recognition System built to identify the different types of Aircraft models using AI and Deep learning models.
 https://sharankalyan-aerolens.hf.space/
 
 ### 2. AirIQ  
