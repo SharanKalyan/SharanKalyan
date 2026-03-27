@@ -26,25 +26,25 @@ I’m an AI/ML & Data Science professional with 6+ years of hands-on experience,
 
 My work includes designing and implementing complete data pipelines: data collection, validation, transformation, storage (SQL/NoSQL), feature engineering, model development, deployment, and business-facing dashboards. Several of these projects focus on operationalizing data for real-world use cases, ensuring scalability, reliability, and measurable business impact.
 
-Here are some of my works:
 
-### Aerolens
+# Here are some of my works:
+### 1. Aerolens
 An Aircraft Model Recognition System built to identify the different types of Aircraft models.
 https://sharankalyan-aerolens.hf.space/
 
-### AirIQ  
+### 2. AirIQ  
 A web application that provides real-time Weather and Air Quality Index (AQI) information along with forecast data and additional environmental insights.
 https://aqi-weather-0yre.onrender.com/
 
-### Virat Kohli ODI Score Prediction
+### 3. Virat Kohli ODI Score Prediction
 A Machine Learning model that predicts Virat Kohli’s ODI score based on historical match data and performance patterns.
 https://virat-kohli-odi-predictions.streamlit.app/
 
-### Virat Kohli ODI Performance Analysis 
+### 4. Virat Kohli ODI Performance Analysis 
 An interactive Tableau dashboard analyzing Virat Kohli’s ODI statistics, trends, and performance metrics.
 https://public.tableau.com/app/profile/sharankalyan/viz/ViratKohli-ODI/ViratKohliODIDashboard?publish=yes
 
-### Credit Risk Prediction System 
+### 5. Credit Risk Prediction System 
 A Machine Learning classification application that predicts credit card approval risk based on applicant financial and demographic features.
 https://credit-card-approval-application.streamlit.app/
 
