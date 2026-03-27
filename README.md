@@ -28,7 +28,8 @@ My work includes designing and implementing complete data pipelines: data collec
 
 Here are some of my works:
 
-1. Aerolens - An Aircraft Model Recognition System built to identify the different types of Aircraft models.
+### Aerolens
+An Aircraft Model Recognition System built to identify the different types of Aircraft models.
 https://sharankalyan-aerolens.hf.space/
 
 3. AirIQ – A web application that provides real-time Weather and Air Quality Index (AQI) information along with forecast data and additional environmental insights.
