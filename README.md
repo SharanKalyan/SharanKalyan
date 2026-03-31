@@ -22,7 +22,7 @@
 
 Welcome to my profile! 
 
-I’m an AI/ML & Data Science professional with 6+ years of hands-on experience, specializing in building end-to-end data management and analytics solutions from raw data ingestion and storage to modeling, visualization, and decision-making systems. I currently lead a high-performance data science team of four at a US-based firm as a Senior Team Lead.
+I’m an AI/ML & Data Science professional with 6+ years of hands-on experience, specializing in building end-to-end data management and analytics solutions from raw data ingestion and storage to modeling, visualization, and decision-making systems. I currently lead a high-performance data science team of four at a US-based firm, Zoominfo, a multinational B2B SaaS company as a Senior Team Lead.
 
 My work includes designing and implementing complete data pipelines: data collection, validation, transformation, storage (SQL/NoSQL), feature engineering, model development, deployment, and business-facing dashboards. Several of these projects focus on operationalizing data for real-world use cases, ensuring scalability, reliability, and measurable business impact.
 
@@ -44,8 +44,8 @@ An interactive Tableau dashboard analyzing Virat Kohli’s ODI statistics, trend
 A Machine Learning classification application that predicts credit card approval risk based on applicant financial and demographic features.
 
 
-# Work Experience
-I lead a high performance Data Sciene team for Zoominfo, a Multinational B2B SaaS company as a Senior Team Lead. I've worked on Smart City and computer vision projects, where object detection frameworks such as YOLO, TensorFlow, and PyTorch play a major role. I’ve personally contributed to multiple production-grade initiatives in this space, many of which are showcased here on my GitHub. Beyond deep learning, I have strong experience in statistical modeling, exploratory data analysis, and advanced visualizations using Python, along with BI tools like Tableau and Power BI to deliver actionable insights to stakeholders.
+# Previous Work Experience
+I've worked on Smart City and computer vision projects, where object detection frameworks such as YOLO, TensorFlow, and PyTorch play a major role. I’ve personally contributed to multiple production-grade initiatives in this space, many of which are showcased here on my GitHub. Beyond deep learning, I have strong experience in statistical modeling, exploratory data analysis, and advanced visualizations using Python, along with BI tools like Tableau and Power BI to deliver actionable insights to stakeholders.
 
 I hold a Bachelor’s degree in Computer Science Engineering from Anna University (2018) and completed my PGP in Data Science from Great Lakes (2019). Having worked across both startups and MNCs, I bring a well-rounded perspective on building data solutions that balance speed, scale, and maintainability.
 
