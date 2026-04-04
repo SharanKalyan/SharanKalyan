@@ -31,16 +31,19 @@ My work includes designing and implementing complete data pipelines: data collec
 ### 1. Aerolens - https://sharankalyan-aerolens.hf.space/
 An Aircraft Model Recognition System built to identify the different types of Aircraft models using AI and Deep learning models.
 
-### 2. AirIQ  - https://aqi-weather-0yre.onrender.com/
+### 2. Hearth - https://hearth-jwqb.onrender.com/
+A smart web app that tracks your recurring home tasks and reminds you exactly when they need attention.
+
+### 3. AirIQ - https://aqi-weather-0yre.onrender.com/
 A web application that provides real-time Weather and Air Quality Index (AQI) information along with forecast data and additional environmental insights.
 
-### 3. Virat Kohli ODI Score Prediction - https://virat-kohli-odi-predictions.streamlit.app/
+### 4. Virat Kohli ODI Score Prediction - https://virat-kohli-odi-predictions.streamlit.app/
 A Machine Learning model that predicts Virat Kohli’s ODI score based on historical match data and performance patterns.
 
-### 4. Virat Kohli ODI Performance Analysis - https://public.tableau.com/app/profile/sharankalyan/viz/ViratKohli-ODI/ViratKohliODIDashboard?publish=yes
+### 5. Virat Kohli ODI Performance Analysis - https://public.tableau.com/app/profile/sharankalyan/viz/ViratKohli-ODI/ViratKohliODIDashboard?publish=yes
 An interactive Tableau dashboard analyzing Virat Kohli’s ODI statistics, trends, and performance metrics.
 
-### 5. Credit Risk Prediction System - https://credit-card-approval-application.streamlit.app/
+### 6. Credit Risk Prediction System - https://credit-card-approval-application.streamlit.app/
 A Machine Learning classification application that predicts credit card approval risk based on applicant financial and demographic features.
 
 
