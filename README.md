@@ -19,7 +19,7 @@
 <a href="mailto:sharandhoni2526@gmail.com"><img src="https://img.shields.io/badge/-Sharan-Kalyan?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
-Welcome to my profile! 
+Welcome to my GitHub!
 
 I’m an AI/ML & Data Science professional with 6+ years of hands-on experience, specializing in building end-to-end data management and analytics solutions from raw data ingestion and storage to modeling, visualization, and decision-making systems. I currently lead a high-performance data science team of four at a US-based firm, Zoominfo, a multinational B2B SaaS company as a Senior Team Lead.
 
