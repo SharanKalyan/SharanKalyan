@@ -12,7 +12,7 @@
 <hr />
 
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Connect with Me 
 
 <p align="left">
 <a href="https://www.linkedin.com/in/sharan-s-k9ab3ab151/"><img src="https://img.shields.io/badge/-Sharan-Kalyan?style=flat&logo=Linkedin&logoColor=white"/></a>
