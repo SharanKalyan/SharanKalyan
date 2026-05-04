@@ -29,7 +29,8 @@ My work includes designing and implementing complete data pipelines: data collec
 # Here are some of my works:
 
 ### 1. AirIQ - https://aqi-weather-0yre.onrender.com/
-A web application that provides real-time Weather and Air Quality Index (AQI) information along with forecast data and additional environmental insights.
+A web application that provides real-time Weather and Air Quality Index (AQI) information along with forecast data and additional environmental insights and 
+"Aira" an advanced AI assistant providing context-aware health advice and data analytics.
 
 ### 2. Aerolens - https://sharankalyan-aerolens.hf.space/
 An Aircraft Model Recognition System built to identify the different types of Aircraft models using AI and Deep learning models.
