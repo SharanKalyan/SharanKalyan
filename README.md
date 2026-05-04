@@ -27,14 +27,15 @@ My work includes designing and implementing complete data pipelines: data collec
 
 
 # Here are some of my works:
-### 1. Aerolens - https://sharankalyan-aerolens.hf.space/
+
+### 1. AirIQ - https://aqi-weather-0yre.onrender.com/
+A web application that provides real-time Weather and Air Quality Index (AQI) information along with forecast data and additional environmental insights.
+
+### 2. Aerolens - https://sharankalyan-aerolens.hf.space/
 An Aircraft Model Recognition System built to identify the different types of Aircraft models using AI and Deep learning models.
 
-### 2. Hearth - https://hearth-jwqb.onrender.com/
+### 3. Hearth - https://hearth-jwqb.onrender.com/
 A smart web app that tracks your recurring home tasks and reminds you exactly when they need attention.
-
-### 3. AirIQ - https://aqi-weather-0yre.onrender.com/
-A web application that provides real-time Weather and Air Quality Index (AQI) information along with forecast data and additional environmental insights.
 
 ### 4. Virat Kohli ODI Score Prediction - https://virat-kohli-odi-predictions.streamlit.app/
 A Machine Learning model that predicts Virat Kohli’s ODI score based on historical match data and performance patterns.
