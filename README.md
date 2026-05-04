@@ -28,7 +28,7 @@ My work includes designing and implementing complete data pipelines: data collec
 
 # Here are some of my works:
 
-### 1. AirIQ - https://aqi-weather-0yre.onrender.com/
+### 1. Skyline Weather - https://aqi-weather-0yre.onrender.com/
 A web application that provides real-time Weather and Air Quality Index (AQI) information along with forecast data and additional environmental insights and 
 "Aira" an advanced AI assistant providing context-aware health advice and data analytics.
 
